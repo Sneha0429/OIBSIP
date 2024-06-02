@@ -4,13 +4,13 @@
 Web Development and Designing Assignments - Level 2
 
 ## Task 1
-- Creating a Simple Calculator App (https://github.com/Sneha0429/OIBSIP/blob/main/calculator.html)
-
+- Creating a Simple Calculator App
+  
 ## Task 2
-- Creating a Tribute Page (https://github.com/Sneha0429/OIBSIP/blob/main/tribute.html)
+- Creating a Tribute Page 
 
 ## Task 3
-- Creating a Basic To-Do App (https://github.com/Sneha0429/OIBSIP/blob/main/todolist.html)
+- Creating a Basic To-Do App 
 
 ## Task 4
-- Creating a Simple Login Authentication System (https://github.com/Sneha0429/OIBSIP/blob/main/login.html)
+- Creating a Simple Login Authentication System 
